@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Clementine vamsi",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 5,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "website": "elvis.io"
+    },
+    {
+      "name": "Vamsi Varma",
+      "username": "vamsivarma",
+      "email": "dvamsivarma619@gmail.com",
+      "phone": "7013035132",
+      "website": "www.vamsivarma.com",
+      "id": 6
+    },
+    {
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "id": 7
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "name": "Audi",
+      "vehicle": [
+        {
+          "id": 1,
+          "title": "Car"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "vehicle": [
+        {
+          "id": 1,
+          "title": "Car"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ford",
+      "vehicle": [
+        {
+          "id": 1,
+          "title": "Car"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mercedes-Benz",
+      "vehicle": [
+        {
+          "id": 1,
+          "title": "Car"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Volvo",
+      "vehicle": [
+        {
+          "id": 1,
+          "title": "Car"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hero",
+      "vehicle": [
+        {
+          "id": 2,
+          "title": "Bike"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Honda",
+      "vehicle": [
+        {
+          "id": 2,
+          "title": "Bike"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "KTM",
+      "vehicle": [
+        {
+          "id": 2,
+          "title": "Bike"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "TVS",
+      "vehicle": [
+        {
+          "id": 2,
+          "title": "Bike"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ashok Leyland",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bharat Benz",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Eicher",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Mahindra",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Tata Motors",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Volvo",
+      "vehicle": [
+        {
+          "id": 3,
+          "title": "Trucks"
+        }
+      ]
+    }
+  ],
+  "vehicle": [
+    {
+      "id": 1,
+      "title": "Car"
+    },
+    {
+      "id": 2,
+      "title": "Bike"
+    },
+    {
+      "id": 3,
+      "title": "Trucks"
+    }
+  ]
+}

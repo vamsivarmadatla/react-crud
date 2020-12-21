@@ -1,0 +1,33 @@
+.form-group {
+  margin: 15px;
+}
+
+.form-group .btn {
+  margin: 15px;
+}
+
+.creat-form {
+  max-width: 20rem;
+  padding: 10px;
+  box-shadow: 2px 2px 2px 2px grey;
+  border-radius: 15px;
+  background-color: lightgray;
+}
+
+.view-form {
+  max-width: 35rem;
+}
+
+.not-found {
+  top: 0;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: #fff;
+  text-align: center;
+  justify-content: center;
+}
+
+.not-found h1 {
+  font-weight: 600;
+}
