@@ -26,6 +26,7 @@ const ModalPop = (props) => {
         </Modal.Header>
         <Modal.Body>
           {props.popbody}
+          {props.children}
           {/* <p>
             {" "}
             <b>ID:</b> {props.popbody.id}

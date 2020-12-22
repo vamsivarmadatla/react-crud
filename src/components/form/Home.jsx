@@ -64,6 +64,7 @@ const Home = (props) => {
                 <th scope="col">#</th>
                 <th scope="col">Name</th>
                 <th scope="col">User Name</th>
+                <th scope="col">Phone Number</th>
                 <th scope="col">Email ID</th>
                 <th>Actions</th>
               </tr>
@@ -74,6 +75,7 @@ const Home = (props) => {
                   <td scope="row">{index + 1}</td>
                   <td>{user.name}</td>
                   <td>{user.username}</td>
+                  <td>{user.phone}</td>
                   <td>{user.email}</td>
                   <td>
                     {/* <Link

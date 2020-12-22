@@ -34,7 +34,7 @@ const AddUser = () => {
         <h2 className="text-center">add user</h2>
         <form onSubmit={(e) => onSubmit(e)}>
           <div className="form-group">
-            {/* <label>Full Name</label> */}
+            <label>Full Name</label>
             <input
               type="text"
               className="form-control form-control-lg"
@@ -47,7 +47,7 @@ const AddUser = () => {
             />
           </div>
           <div className="form-group">
-            {/* <label>User Name</label> */}
+            <label>User Name</label>
             <input
               type="text"
               className="form-control form-control-lg"
@@ -60,7 +60,7 @@ const AddUser = () => {
             />
           </div>
           <div className="form-group">
-            {/* <label>Email</label> */}
+            <label>Email ID</label>
             <input
               type="email"
               className="form-control form-control-lg"
@@ -73,7 +73,7 @@ const AddUser = () => {
           </div>
 
           <div className="form-group">
-            {/* <label>Phone</label> */}
+            <label>Phone Number</label>
             <input
               type="number"
               className="form-control form-control-lg"
@@ -85,7 +85,7 @@ const AddUser = () => {
             />
           </div>
           <div className="form-group">
-            {/* <label>Website</label> */}
+            <label>Website</label>
             <input
               type="text"
               className="form-control form-control-lg"
